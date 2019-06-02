@@ -43,3 +43,15 @@ public class CourseTest {
     public void testgenerateClassRoster() {assertTrue(course.generateClassRoster()); }
 
 }
+
+//    public void MyTest() {
+//        setUp();
+//        testaddProfessor();
+//        for(int i=0;i<10;i++) {
+//            testaddProfessor();
+//        }
+//        testclose() ;
+//
+//        setUp();
+//        testclose();
+//    }
